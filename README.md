@@ -1,1 +1,1 @@
-# Rust-stude
+# self Rust study start
