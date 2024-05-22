@@ -1,1 +1,1 @@
-# self Rust study start
+# Rust-lang study start
